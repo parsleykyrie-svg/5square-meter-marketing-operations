@@ -1,5 +1,14 @@
-__pycache__/
-*.pyc
+.DS_Store
 .env
 .env.*
-.DS_Store
+!.env.example
+__pycache__/
+*.pyc
+.claude/settings.local.json
+.mcp.json
+work_in_progress/*
+!work_in_progress/.gitkeep
+output/*
+!output/.gitkeep
+context/product/user_stories/*.md
+!context/product/user_stories/README.md
