@@ -52,7 +52,7 @@ These are instruction-defined handoffs, not an automatic scheduler that executes
 | `context/product/` | Public product context and topic map |
 | `context/brand.md` | Voice, messaging and language conventions |
 | `context/personas.md` | Separate developer-side and broker-side personas |
-| `context/channels.md` | Channel configuration; active-channel table is not yet populated |
+| `context/channels.md` | Channel configuration and operator-supplied account requirements |
 | `research/` | Research index and source-review guidance |
 | `scripts/sync_product_context.sh` | Copy product context and approved user stories from a local SDLC checkout |
 | `scripts/validate_workspace.py` | Added structural checks for commands, agents and context dependencies |
